@@ -1,6 +1,6 @@
 {
   "name": "Tommy-bot",
-  "version": "1.0.0",
+  "version": "2.3.5",
   "main": "index.js",
   "scripts": {
     "test": "node index.js"
